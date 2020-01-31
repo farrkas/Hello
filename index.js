@@ -3,5 +3,6 @@ var b=a+7
 
 var c=(a + b);
 
-console.log(c);
+console.log(c+a+b);
+
 
